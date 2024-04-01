@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there 👋 
 
+This is a placeholder for the actual READMe, hopefully, I get it done soon. Pending that time, my name is Mowo. I am a front-end developer. I specialise in React, React-native, Typescript, Tailwind and MUI. Don't be a stranger, let's connect
 <!--
 **Mo-wo/Mo-wo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
