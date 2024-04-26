@@ -65,7 +65,7 @@
 <div>
     <h1>Recent Activity</h1>
     <!--START_SECTION:activity-->
-    1. Badged an event [#319] (https://github.com/badging/event-diversity-and-inclusion/issues/319) </br>
+1. 🗣 Commented on [#319](https://github.com/badging/event-diversity-and-inclusion/issues/319#issuecomment-2076580921) in [badging/event-diversity-and-inclusion](https://github.com/badging/event-diversity-and-inclusion)
     <!--END_SECTION:activity-->
 </div>
 
