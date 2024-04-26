@@ -55,3 +55,9 @@
   <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" /> &nbsp; </br>
 </div>
 
+</br></br>
+
+<!-- Github Stats -->
+[![Mowo's GitHub stats](https://github-readme-stats.vercel.app/api?username=mo-wo&show_icons=true&theme=radical)](https://github.com/mo-wo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mo-wo)](https://github.com/mo-wo/github-readme-stats)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=badging&repo=event-diversity-and-inclusion&showOwner=true)](https://github.com/badging/event-diversity-and-inclusion) -->
