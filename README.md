@@ -1,26 +1,29 @@
 <!-- About -->
+<h1 align="center"> Hi there 👋 I am Mowo! </h1>
+<p align="center"> A software developer with front-end specialisation. My mantra? Craft exceptional experiences with a sprinkle of cross-browser magic and a dash of mobile-first mojo. Volunteering in developer communities is my jam, spreading knowledge and goodwill like confetti! When I am not busy coding or lending a hand in the digital world, you'll find me whipping up culinary creations in the kitchen. 🍳👨‍🍳 From spicy to sweet, I can cook up a storm and eat it with a mischievous grin. At work or outside of it, I bring a splash of joy wherever I go 🤭</p>
 
-<div>
-    <h1 align="center"> Hi there 👋 I am Mowo! </h1>
-    <p align="center"> A software developer with front-end specialisation. My mantra? Craft exceptional experiences with a sprinkle of cross-browser magic and a dash of mobile-first mojo. Volunteering in developer communities is my jam, spreading knowledge and goodwill like confetti! When I am not busy coding or lending a hand in the digital world, you'll find me whipping up culinary creations in the kitchen. 🍳👨‍🍳 From spicy to sweet, I can cook up a storm and eat it with a mischievous grin. At work or outside of it, I bring a splash of joy wherever I go 🤭</p>
-</div>
+</br>
 
-</br></br>
+<!-- Socials -->
+<p>Let's connect:&nbsp;</p>
+<a href="https://twitter.com/iammowo" target="_blank"><img height="20" width="20" src="https://cdn.simpleicons.org/x/000000/ffffff" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/victoria-akwubo-59b009153/" target="_blank"><img height="20" width="20" src="https://cdn.simpleicons.org/linkedin" /></a>&nbsp;
+<a href="https://www.instagram.com/iammowo_/?hl=en" target="_blank"><img height="20" width="20" src="https://cdn.simpleicons.org/instagram" /></a>&nbsp;
 
 <!-- Status -->
 <div>
-<h2>Present Status</h2>
-👩🏾 Pronouns:                    <strong>She/Her</strong></br>
-🛠️ Working on:                  <strong>Iungogram - a video chat mobile application</strong></br>
-🧠 Learning:                    <strong>Backend development and Blockchain development</strong></br>
-👯 Looking to collaborate on:   <strong>Open-source projects</strong></br>
-🤔 Open to:                     <strong>Remote opportunities</strong></br>
-💬 Ask me about:                <strong>Web and Mobile application development</strong></br>
-📧 How to reach me:             <strong>ovakwubo@gmail.com</strong></br>
-⚡ Fun fact:                     <strong>I am a foodie</strong>
+    <h2>Present Status</h2>
+    👩🏾 Pronouns:                    <strong>She/Her</strong></br>
+    🛠️ Working on:                  <strong>Iungogram - a video chat mobile application</strong></br>
+    🧠 Learning:                    <strong>Backend development and Blockchain development</strong></br>
+    👯 Looking to collaborate on:   <strong>Open-source projects</strong></br>
+    🤔 Open to:                     <strong>Remote opportunities</strong></br>
+    💬 Ask me about:                <strong>Web and Mobile application development</strong></br>
+    📧 How to reach me:             <strong>ovakwubo@gmail.com</strong></br>
+    ⚡ Fun fact:                     <strong>I am a foodie</strong>
 </div>
 
-</br></br>
+</br>
 
 <!-- Skills -->
 <div>
@@ -54,19 +57,16 @@
   <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" /> &nbsp; </br>
 </div>
 
-</br></br>
+</br>
 
 <!-- Github Stats -->
-[![Mowo's GitHub stats](https://github-readme-stats-ejw8-mowos-projects.vercel.app/api?username=mo-wo&show_icons=true&theme=radical)](https://github.com/mo-wo/github-readme-stats)
-[![Top Langs](https://github-readme-stats-ejw8-mowos-projects.vercel.app/api/top-langs/?username=mo-wo)](https://github.com/mo-wo/github-readme-stats)
+<h2>Github Stats</h2>
+<img align="left" src="https://github-readme-stats-ejw8-mowos-projects.vercel.app/api?username=mo-wo&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&locale=en&count-private=true&rank_icon=github" />&nbsp;&nbsp;
+<img src="https://github-readme-stats-ejw8-mowos-projects.vercel.app/api/top-langs?username=mo-wo&show_icons=true&locale=en&layout=compact" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mo-wo&"/>
 
-</br></br>
-
-<div>
-    <h1>Recent Activity</h1>
-    <!--START_SECTION:activity-->
-1. 🗣 Commented on [#319](https://github.com/badging/event-diversity-and-inclusion/issues/319#issuecomment-2076580921) in [badging/event-diversity-and-inclusion](https://github.com/badging/event-diversity-and-inclusion)
-    <!--END_SECTION:activity-->
-</div>
-
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=badging&repo=event-diversity-and-inclusion&showOwner=true)](https://github.com/badging/event-diversity-and-inclusion) -->
+<!-- Recent Activities -->
+<h2>Recent Activity</h2>
+<!--START_SECTION:activity-->
+1. Badged an event [#319] (https://github.com/badging/event-diversity-and-inclusion/issues/319)
+<!--END_SECTION:activity-->
