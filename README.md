@@ -1,6 +1,6 @@
 <!-- About -->
-<h1 align="center"> Hi there 👋 I am Mowo! </h1>
-<p align="center"> A software developer with front-end specialisation. My mantra? Craft exceptional experiences with a sprinkle of cross-browser magic and a dash of mobile-first mojo. Volunteering in developer communities is my jam, spreading knowledge and goodwill like confetti! When I am not busy coding or lending a hand in the digital world, you'll find me whipping up culinary creations in the kitchen. 🍳👨‍🍳 From spicy to sweet, I can cook up a storm and eat it with a mischievous grin. At work or outside of it, I bring a splash of joy wherever I go 🤭</p>
+<h1 align="center">Mowo Here! 👋 </h1>
+<p align="center"> I am a software developer with front-end specialisation. My mantra? Craft exceptional experiences with a sprinkle of cross-browser magic and a dash of mobile-first mojo. Volunteering in developer communities is my jam, spreading knowledge and goodwill like confetti! When I am not busy coding or lending a hand in the digital world, you'll find me whipping up culinary creations in the kitchen. 🍳👨‍🍳 From spicy to sweet, I can cook up a storm and eat it with a mischievous grin. At work or outside of it, I bring a splash of joy wherever I go 🤭</p>
 
 </br>
 
@@ -12,7 +12,7 @@
 
 <!-- Status -->
 <div>
-    <h2>Present Status</h2>
+    <h2>Little more info</h2>
     👩🏾 Pronouns:                    <strong>She/Her</strong></br>
     🛠️ Working on:                  <strong>Iungogram - a video chat mobile application</strong></br>
     🧠 Learning:                    <strong>Backend development and Blockchain development</strong></br>
