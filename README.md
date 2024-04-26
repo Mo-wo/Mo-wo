@@ -39,10 +39,9 @@
   <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" /> &nbsp;
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" /> &nbsp;</br>
 
-  <h4>Version Control</h4>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /> &nbsp;</br>
+  <h4>Hosting</h4>
+  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" /> &nbsp;
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" /> &nbsp;</br>
 
   <h4>Testing</h4>
   <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" /> &nbsp;
@@ -60,4 +59,14 @@
 <!-- Github Stats -->
 [![Mowo's GitHub stats](https://github-readme-stats-ejw8-mowos-projects.vercel.app/api?username=mo-wo&show_icons=true&theme=radical)](https://github.com/mo-wo/github-readme-stats)
 [![Top Langs](https://github-readme-stats-ejw8-mowos-projects.vercel.app/api/top-langs/?username=mo-wo)](https://github.com/mo-wo/github-readme-stats)
+
+</br></br>
+
+<div>
+    <h1>Recent Activity</h1>
+    <!--START_SECTION:activity-->
+    1. Badged an event [#319] (https://github.com/badging/event-diversity-and-inclusion/issues/319) </br>
+    <!--END_SECTION:activity-->
+</div>
+
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=badging&repo=event-diversity-and-inclusion&showOwner=true)](https://github.com/badging/event-diversity-and-inclusion) -->
