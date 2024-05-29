@@ -72,5 +72,5 @@
 <!-- Recent Activities -->
 <h2>Recent Activity</h2>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#337](https://github.com/badging/event-diversity-and-inclusion/issues/337#issuecomment-2134904644) in [badging/event-diversity-and-inclusion](https://github.com/badging/event-diversity-and-inclusion)
+1. 🗣 Commented on [#337](https://github.com/badging/event-diversity-and-inclusion/issues/337#issuecomment-2137322591) in [badging/event-diversity-and-inclusion](https://github.com/badging/event-diversity-and-inclusion)
 <!--END_SECTION:activity-->
