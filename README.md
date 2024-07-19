@@ -1,6 +1,7 @@
 <!-- About -->
 <h1 align="center">Mowo Here! 👋 </h1>
-<p align="center"> I am a software developer with front-end specialisation. My mantra? Craft exceptional experiences with a sprinkle of cross-browser magic and a dash of mobile-first mojo. Volunteering in developer communities is my jam, spreading knowledge and goodwill like confetti! When I am not busy coding or lending a hand in the digital world, you'll find me whipping up culinary creations in the kitchen. 🍳👨‍🍳 From spicy to sweet, I can cook up a storm and eat it with a mischievous grin. At work or outside of it, I bring a splash of joy wherever I go 🤭</p>
+<p align="center"> I am a software developer with front-end specialisation. My mantra? Craft exceptional experiences with a sprinkle of cross-browser magic and a dash of mobile-first mojo. Volunteering in developer communities is my jam, spreading knowledge and goodwill like confetti! When I am not busy coding or lending a hand in the digital world, you'll find me whipping up culinary creations in the kitchen. 🍳👨‍🍳 From spicy to sweet, I can cook up a storm and eat it with a mischievous grin. At work or outside of it, I bring a splash of joy wherever I go 🤭.  </br>
+I am currently looking to collaborate on <strong>Open-source projects</strong> and I am open to <strong>Remote opportunities</strong></br></p>
 
 </br>
 
@@ -10,8 +11,17 @@
 <a href="https://www.linkedin.com/in/victoria-akwubo-59b009153/" target="_blank"><img height="20" width="20" src="https://cdn.simpleicons.org/linkedin" /></a>&nbsp;
 <a href="https://www.instagram.com/iammowo_/?hl=en" target="_blank"><img height="20" width="20" src="https://cdn.simpleicons.org/instagram" /></a>&nbsp;
 
+</br>
+</br>
+</br>
+
+<!-- Portfolio --->
+<p>Checkout my <a href="https://mowo.vercel.app" target="_blank">Portfolio</a> here</p>
+
+</br>
+
 <!-- Status -->
-<div>
+<!-- <div>
     <h2>Little more info</h2>
     👩🏾 Pronouns:                    <strong>She/Her</strong></br>
     🛠️ Working on:                  <strong>Iungogram - a video chat mobile application</strong></br>
@@ -21,7 +31,7 @@
     💬 Ask me about:                <strong>Web and Mobile application development</strong></br>
     📧 How to reach me:             <strong>ovakwubo@gmail.com</strong></br>
     ⚡ Fun fact:                     <strong>I am a foodie</strong>
-</div>
+</div>-->
 
 </br>
 
