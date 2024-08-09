@@ -84,5 +84,5 @@ I am currently open to <strong>remote opportunities</strong> and looking to coll
 <!-- Recent Activities -->
 <h2>Recent Activity</h2>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#346](https://github.com/badging/event-diversity-and-inclusion/issues/346#issuecomment-2203476042) in [badging/event-diversity-and-inclusion](https://github.com/badging/event-diversity-and-inclusion)
+1. 🗣 Commented on [#348](https://github.com/badging/event-diversity-and-inclusion/issues/348#issuecomment-2277151023) in [badging/event-diversity-and-inclusion](https://github.com/badging/event-diversity-and-inclusion)
 <!--END_SECTION:activity-->
