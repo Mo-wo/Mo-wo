@@ -84,5 +84,5 @@ I am currently open to <strong>remote opportunities</strong> and looking to coll
 <!-- Recent Activities -->
 <h2>Recent Activity</h2>
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/zealmaster/anti-robot-user-form/pull/6) in [zealmaster/anti-robot-user-form](https://github.com/zealmaster/anti-robot-user-form)
+1. 💪 Opened PR [#9](https://github.com/zealmaster/anti-robot-user-form/pull/9) in [zealmaster/anti-robot-user-form](https://github.com/zealmaster/anti-robot-user-form)
 <!--END_SECTION:activity-->
