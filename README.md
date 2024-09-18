@@ -84,5 +84,5 @@ I am currently open to <strong>remote opportunities</strong> and looking to coll
 <!-- Recent Activities -->
 <h2>Recent Activity</h2>
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/zealmaster/anti-robot-user-form/pull/12) in [zealmaster/anti-robot-user-form](https://github.com/zealmaster/anti-robot-user-form)
+1. 🗣 Commented on [#354](https://github.com/badging/event-diversity-and-inclusion/issues/354#issuecomment-2359219283) in [badging/event-diversity-and-inclusion](https://github.com/badging/event-diversity-and-inclusion)
 <!--END_SECTION:activity-->
