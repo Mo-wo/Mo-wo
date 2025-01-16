@@ -1,6 +1,6 @@
 <!-- About -->
 <h1 align="center">Mowo Here! 👋 </h1>
-<p align="center"> I am a software developer with front-end specialisation. My mantra? Craft exceptional experiences with a sprinkle of cross-browser magic and a dash of mobile-first mojo. Volunteering in developer communities is my jam, spreading knowledge and goodwill like confetti! When I am not busy coding or lending a hand in the digital world, you'll find me whipping up culinary creations in the kitchen. 🍳👨‍🍳 From spicy to sweet, I can cook up a storm and eat it with a mischievous grin. At work or outside of it, I bring a splash of joy wherever I go 🤭.  </br>
+<p align="center"> I am a software developer with a front-end specialisation. My mantra? Craft exceptional experiences with a sprinkle of cross-browser magic and a dash of mobile-first mojo. Volunteering in developer communities is my jam, spreading knowledge and goodwill like confetti! When I am not busy coding or lending a hand in the digital world, you'll find me whipping up culinary creations in the kitchen. 🍳👨‍🍳 From spicy to sweet, I can cook up a storm and eat it with a mischievous grin. At work or outside of it, I bring a splash of joy wherever I go 🤭.  </br>
 I am currently open to <strong>remote opportunities</strong> and looking to collaborate on <strong>open-source projects</strong> </p>
 </br>
 
@@ -79,9 +79,7 @@ I am currently open to <strong>remote opportunities</strong> and looking to coll
 <h2>Github Stats</h2>
 <img align="left" src="https://github-readme-stats-ejw8-mowos-projects.vercel.app/api?username=mo-wo&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&locale=en&count-private=true&rank_icon=github" />&nbsp;&nbsp;
 <img src="https://github-readme-stats-ejw8-mowos-projects.vercel.app/api/top-langs?username=mo-wo&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=00000000" />
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mo-wo&theme=dark&hide_border=true)](https://git.io/streak-stats) -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mo-wo&theme=dark&hide_border=true" alt="GitHub Streak" />
-
+<img src="https://github-readme-streak-stats-one-sigma.vercel.app?user=mo-wo&theme=radical" />
 
 <!-- Recent Activities -->
 <h2>Recent Activity</h2>
