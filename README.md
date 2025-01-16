@@ -79,8 +79,8 @@ I am currently open to <strong>remote opportunities</strong> and looking to coll
 <h2>Github Stats</h2>
 <img align="left" src="https://github-readme-stats-ejw8-mowos-projects.vercel.app/api?username=mo-wo&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&locale=en&count-private=true&rank_icon=github" />&nbsp;&nbsp;
 <img src="https://github-readme-stats-ejw8-mowos-projects.vercel.app/api/top-langs?username=mo-wo&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=00000000" />
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mo-wo&theme=dark&hide_border=true)](https://git.io/streak-stats)
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mo-wo&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mo-wo&theme=dark&hide_border=true)](https://git.io/streak-stats) -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mo-wo&theme=dark&hide_border=true" alt="GitHub Streak" />
 
 
 <!-- Recent Activities -->
