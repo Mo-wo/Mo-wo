@@ -9,18 +9,18 @@ I am currently open to <strong>remote opportunities</strong> and looking to coll
 </br>
 
 <!-- Socials -->
-<p>Let's connect:&nbsp;</p>
+<!-- <p>Let's connect:&nbsp;</p>
 <a href="https://twitter.com/iammowo" target="_blank"><img height="20" width="20" src="https://cdn.simpleicons.org/x/000000/ffffff" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/victoria-akwubo-59b009153/" target="_blank"><img height="20" width="20" src="https://cdn.simpleicons.org/linkedin" /></a>&nbsp;
 <a href="https://www.instagram.com/iammowo_/?hl=en" target="_blank"><img height="20" width="20" src="https://cdn.simpleicons.org/instagram" /></a>&nbsp;
 
 </br>
-</br>
+</br> -->
 
 <!-- Portfolio --->
-<p>Checkout my <a href="https://mowo.vercel.app" target="_blank">Portfolio</a> here</p>
+<!-- <p>Checkout my <a href="https://mowo.vercel.app" target="_blank">Portfolio</a> here</p> -->
 
-</br>
+<!-- </br> -->
 
 <!-- Status -->
 <!-- <div>
@@ -38,7 +38,7 @@ I am currently open to <strong>remote opportunities</strong> and looking to coll
 </br>
 
 <!-- Skills -->
-<div>
+<!-- <div>
   <h2>Technologies I use</h2>
   <h4>Languages</h4>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> &nbsp;
@@ -73,16 +73,16 @@ I am currently open to <strong>remote opportunities</strong> and looking to coll
   <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" /> &nbsp; </br>
 </div>
 
-</br>
-
+-->
+<!-- </br>  -->
 <!-- Github Stats -->
-<h2>Github Stats</h2>
+<!-- <h2>Github Stats</h2>
 <img align="left" src="https://github-readme-stats-ejw8-mowos-projects.vercel.app/api?username=mo-wo&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&locale=en&count-private=true&rank_icon=github" />&nbsp;&nbsp;
 <img src="https://github-readme-stats-ejw8-mowos-projects.vercel.app/api/top-langs?username=mo-wo&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=00000000" />
-<img src="https://github-readme-streak-stats-one-sigma.vercel.app?user=mo-wo&theme=radical" />
+<img src="https://github-readme-streak-stats-one-sigma.vercel.app?user=mo-wo&theme=radical" /> -->
 
 <!-- Recent Activities -->
-<h2>Recent Activity</h2>
+<!-- <h2>Recent Activity</h2> -->
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#354](https://github.com/badging/event-diversity-and-inclusion/issues/354#issuecomment-2359219283) in [badging/event-diversity-and-inclusion](https://github.com/badging/event-diversity-and-inclusion)
+<!-- 1. 🗣 Commented on [#354](https://github.com/badging/event-diversity-and-inclusion/issues/354#issuecomment-2359219283) in [badging/event-diversity-and-inclusion](https://github.com/badging/event-diversity-and-inclusion) -->
 <!--END_SECTION:activity-->
